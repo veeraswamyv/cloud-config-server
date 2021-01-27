@@ -10,7 +10,7 @@ eureka:
      
               
  microservice:
-   paymentservice:
+   payment-service:
      endpoints:
        endpoint:
           uri: http://payment-service/payment/dopayment  
